@@ -14,7 +14,7 @@ namespace HexadecimalConvertTemplate
             //define array of hexadecimal values
 
 
-            //convert two random denary numbers to hexadecimal (index value of hexadecimal values array)
+            //convert two random denary numbers to hexadecimal (use the index values of hexadecimal values array)
 
 
             //convert hexadecimal number to denary 
